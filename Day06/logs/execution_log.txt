@@ -1,0 +1,14 @@
+========== Automation Execution ==========
+Execution Started
+Executing TC_Login
+Execution Completed
+------------------------------------------
+Execution Started
+Executing TC_Payment
+Executing TC_Refund
+Execution Completed
+------------------------------------------
+Execution Started
+Executing TC_Payment
+Executing TC_Refund
+Execution Completed
