@@ -1,0 +1,33 @@
+print("=" * 55)
+print("AI-ML Learning Journey")
+print("Author : Nilesh Kharad")
+print("Date   : 31-Jul-2026")
+print("        Day 07 - Python Exception Handling")
+print("=" * 55)
+
+print("\nTopics Covered:")
+print("1. Exception Handling")
+print("2. try")
+print("3. except")
+print("4. else")
+print("5. finally")
+print("6. Multiple Exceptions")
+print("7. raise")
+print("8. Custom Exceptions")
+
+print("\nPractice Files:")
+print("- exception_handling.py")
+print("- finally_demo.py")
+print("- multiple_exception_demo.py")
+print("- custom_exception.py")
+
+print("\nLearning Outcome:")
+print("- Handle runtime errors gracefully")
+print("- Prevent program crashes")
+print("- Use finally for resource cleanup")
+print("- Raise custom exceptions")
+print("- Generate execution logs")
+
+print("\nStatus : Day 07 Completed Successfully ✅")
+
+print("=" * 55)
