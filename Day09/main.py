@@ -1,0 +1,33 @@
+print("=" * 60)
+print("             AI-ML Learning Journey")
+print("               Author : Nilesh Kharad")
+print("               Date   : 05-Aug-2026")
+print("           Day 09 - Inheritance in Python")
+print("=" * 60)
+
+print("\nTopics Covered:")
+print("1. Object-Oriented Programming (OOP) Recap")
+print("2. Inheritance")
+print("3. Parent Class")
+print("4. Child Class")
+print("5. super()")
+print("6. Constructor Inheritance")
+print("7. Reusability")
+print("8. Real-world QA Examples")
+
+print("\nPractice Files:")
+print("- inheritance_demo.py")
+print("- student_inheritance.py")
+print("- bank_inheritance.py")
+print("- qa_inheritance_demo.py")
+
+print("\nLearning Outcome:")
+print("- Understand inheritance in Python")
+print("- Reuse parent class attributes and methods")
+print("- Use super() to initialize parent constructor")
+print("- Build reusable and maintainable code")
+print("- Apply inheritance to QA Automation framework design")
+
+print("\nStatus : Day 09 Completed Successfully ✅")
+
+print("=" * 60)
